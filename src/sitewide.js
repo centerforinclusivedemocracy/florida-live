@@ -34,7 +34,7 @@ const PARTICIPATING_COUNTIES = [
     { countyfp:"091", name:"Okaloosa", profile: 'fullmodel', outoforder:"Polling location modeling will be provided for this county soon", datafootnote:"", exceptlayers: [] },
     { countyfp:"095", name:"Orange", profile: 'fullmodel', outoforder:"Polling location modeling will be provided for this county soon", datafootnote:"", exceptlayers: [] },
     { countyfp:"097", name:"Osceola", profile: 'fullmodel', outoforder:"Polling location modeling will be provided for this county soon", datafootnote:"", exceptlayers: [] },
-    { countyfp:"099", name:"Palm Beach", profile: 'lite', outoforder:"Polling location modeling will be provided for this county soon", datafootnote:"", exceptlayers: [] },
+    { countyfp:"099", name:"Palm Beach", profile: 'fullmodel', outoforder:"Polling location modeling will be provided for this county soon", datafootnote:"", exceptlayers: [] },
     { countyfp:"101", name:"Pasco", profile: 'fullmodel', outoforder:"Polling location modeling will be provided for this county soon", datafootnote:"", exceptlayers: [] },
     { countyfp:"103", name:"Pinellas", profile: 'fullmodel', outoforder:"Polling location modeling will be provided for this county soon", datafootnote:"", exceptlayers: [] },
     { countyfp:"105", name:"Polk", profile: 'lite', outoforder:"Polling location modeling will be provided for this county soon", datafootnote:"", exceptlayers: [] },
