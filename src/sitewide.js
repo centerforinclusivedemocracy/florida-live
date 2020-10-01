@@ -37,15 +37,15 @@ const PARTICIPATING_COUNTIES = [
     { countyfp:"099", name:"Palm Beach", profile: 'fullmodel',  outoforder:"", datafootnote:"", exceptlayers: [] },
     { countyfp:"101", name:"Pasco", profile: 'fullmodel',  outoforder:"", datafootnote:"", exceptlayers: [] },
     { countyfp:"103", name:"Pinellas", profile: 'fullmodel',  outoforder:"", datafootnote:"", exceptlayers: [] },
-    { countyfp:"105", name:"Polk", profile: 'lite',  outoforder:"", datafootnote:"", exceptlayers: [] },
+    { countyfp:"105", name:"Polk", profile: 'fullmodel',  outoforder:"", datafootnote:"", exceptlayers: [] },
     { countyfp:"107", name:"Putnam", profile: 'fullmodel',  outoforder:"", datafootnote:"", exceptlayers: [] },
     { countyfp:"109", name:"St. Johns", profile: 'fullmodel',  outoforder:"", datafootnote:"", exceptlayers: [] },
     { countyfp:"111", name:"St. Lucie", profile: 'fullmodel',  outoforder:"", datafootnote:"", exceptlayers: [] },
     { countyfp:"113", name:"Santa Rosa", profile: 'fullmodel',  outoforder:"", datafootnote:"", exceptlayers: [] },
-    { countyfp:"115", name:"Sarasota", profile: 'lite',  outoforder:"", datafootnote:"", exceptlayers: [] },
+    { countyfp:"115", name:"Sarasota", profile: 'fullmodel',  outoforder:"", datafootnote:"", exceptlayers: [] },
     { countyfp:"117", name:"Seminole", profile: 'fullmodel',  outoforder:"", datafootnote:"", exceptlayers: [] },
     { countyfp:"119", name:"Sumter", profile: 'fullmodel',  outoforder:"", datafootnote:"", exceptlayers: [] },
-    { countyfp:"127", name:"Volusia", profile: 'lite',  outoforder:"", datafootnote:"", exceptlayers: [] },
+    { countyfp:"127", name:"Volusia", profile: 'fullmodel',  outoforder:"", datafootnote:"", exceptlayers: [] },
     { countyfp:"131", name:"Walton", profile: 'fullmodel',  outoforder:"", datafootnote:"", exceptlayers: [] },
 ];
 
