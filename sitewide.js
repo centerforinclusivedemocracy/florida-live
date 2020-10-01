@@ -27,7 +27,7 @@ const PARTICIPATING_COUNTIES = [
     { countyfp:"057", name:"Hillsborough", profile: 'fullmodel',  outoforder:"", datafootnote:"", exceptlayers: [] },
     { countyfp:"061", name:"Indian River", profile: 'fullmodel',  outoforder:"", datafootnote:"", exceptlayers: [] },
     { countyfp:"069", name:"Lake", profile: 'fullmodel',  outoforder:"", datafootnote:"", exceptlayers: [] },
-    { countyfp:"071", name:"Lee", profile: 'lite',  outoforder:"", datafootnote:"", exceptlayers: [] },
+    { countyfp:"071", name:"Lee", profile: 'fullmodel',  outoforder:"", datafootnote:"", exceptlayers: [] },
     { countyfp:"073", name:"Leon", profile: 'fullmodel',  outoforder:"", datafootnote:"", exceptlayers: [] },
     { countyfp:"081", name:"Manatee", profile: 'fullmodel',  outoforder:"", datafootnote:"", exceptlayers: [] },
     { countyfp:"083", name:"Marion", profile: 'fullmodel',  outoforder:"", datafootnote:"", exceptlayers: [] },
