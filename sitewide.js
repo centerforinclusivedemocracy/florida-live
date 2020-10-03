@@ -80,10 +80,10 @@ const getParticipatingCountyInfo = function (countyfp) {
         });
     }
 
-    // county-specific data hacks; these counties have no polling place data, so don't offer it
-    if (['005', '015', '031', '069', '089', '103', '109', '111', '119'].indexOf(countyfp) != -1) {
-        returnme.datalayers.pointsofinterest = returnme.datalayers.pointsofinterest.filter(function (layerinfo) { return layerinfo.id != 'pripoll2020'; });
-    }
+    // // county-specific data hacks; these counties have no polling place data, so don't offer it
+    // if (['005', '015', '031', '069', '089', '103', '109', '111', '119'].indexOf(countyfp) != -1) {
+    //     returnme.datalayers.pointsofinterest = returnme.datalayers.pointsofinterest.filter(function (layerinfo) { return layerinfo.id != 'pripoll2020'; });
+    // }
 
     // done
     return returnme;
